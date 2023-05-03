@@ -22,7 +22,7 @@
     "gulp-sourcemaps": "^3.0.0"
   },
   "dependencies": {
-    "sass": "^1.52.1",
+    "sass": "^1.62.1",
     "styled-components": "^5.3.5"
   },
   "keywords": [],
